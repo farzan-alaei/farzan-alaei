@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi there! I'm Farzan A.
 
-<!--
-**farzan-alaei/farzan-alaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend developer with a love for crafting efficient and scalable applications using Python and Django. Currently, I’m exploring the front-end world with Svelte to broaden my skill set and take on exciting challenges.
 
-Here are some ideas to get you started:
+## 🔧 Technologies I’m Familiar With:
+- **Programming Languages**: Python, JavaScript
+- **Frameworks**: Django, Django REST Framework
+- **Frontend**: Svelte, HTML, CSS
+- **Databases**: SQLite, PostgreSQL, MySQL
+- **Tools**: Docker, Git, RESTful APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Projects
+I have worked on several interesting projects, including:
+- **[DjangoRestTrello](https://github.com/farzan-alaei/DjangoRestTrello)**: A backend API for managing boards and tasks, built with Django and Svelte.
+- **[DjangoTwitter](https://github.com/farzan-alaei/DjangoTwitter)**: A simplified version of Twitter, showcasing user interactions and tweet management.
+- **[CinemaTicketScript](https://github.com/farzan-alaei/CinemaTicketScript)**: A modular cinema ticketing system built in Python, run from the terminal.
+- **[Storefront](https://github.com/farzan-alaei/storefront)**: A Django backend project I completed as part of Mosh Hamedani's course.
+
+## 🌱 I'm currently learning:
+- I have a strong interest in backend development and want to strengthen my skills in this area.
+
+## 📫 Let's connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/farzanalaei/) or follow my projects here on GitHub. I love collaborating and sharing ideas!
