@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Farzan A.
+# 👋 Hi there! I'm Farzan
 
 I'm a passionate backend developer with a love for crafting efficient and scalable applications using Python and Django. Currently, I’m exploring the front-end world with Svelte to broaden my skill set and take on exciting challenges.
 
